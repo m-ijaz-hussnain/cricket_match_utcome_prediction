@@ -46,25 +46,6 @@ This is an end-to-end data science project that uses historical cricket match da
 
 ---
 
-cricket-match-prediction/
-├── data/
-│ ├── matches.csv
-│ └── deliveries.csv
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ └── 02_modeling.ipynb
-├── models/
-│ └── match_outcome_model.pkl
-├── src/
-│ ├── data_cleaning.py
-│ └── model_utils.py
-├── cricket_predictor.py
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── README.md
-
-
 ---
 
 ## 🔍 Sample Use Case
@@ -106,8 +87,17 @@ Add live data scraping from ESPN or Cricbuzz
 
 Predict player performance (runs, wickets, strike rate)
 
-Integrate model explanations (SHAP)
-## 📁 Project Structure
+---
+
+## 📎 Resources
+
+📊 Power BI Dashboard:
+![Dashboard Screenshot](cricket_match_outcome_prediction1.jpeg)
+![Dashboard Screenshot](cricket_match_outcome_prediction2.jpeg)
+![Dashboard Screenshot](cricket_match_outcome_prediction3.jpeg)
+
+
+---
 
 ## 📬 Contact
 
